@@ -1,0 +1,1 @@
+The following example was created by Paul Badger in 2007. It shows a simple tone generation function generating square waves of arbitrary frequency and duration. The program also includes a top-octave lookup table & transportation function.
